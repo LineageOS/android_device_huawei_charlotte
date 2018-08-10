@@ -14,4 +14,4 @@
 # limitations under the License.
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/full_charlotte.mk
+    $(LOCAL_DIR)/lineage_charlotte.mk
