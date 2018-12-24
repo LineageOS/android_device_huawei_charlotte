@@ -28,4 +28,5 @@ $(call inherit-product, vendor/lineage/config/common_full_phone.mk)
 PRODUCT_DEVICE := charlotte
 PRODUCT_NAME := lineage_charlotte
 PRODUCT_BRAND := Huawei
+PRODUCT_MANUFACTURER := Huawei
 PRODUCT_MODEL := P20 Pro
